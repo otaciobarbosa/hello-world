@@ -1,2 +1,2 @@
-# hello_world
+# hello-world
 Hello world created with python
